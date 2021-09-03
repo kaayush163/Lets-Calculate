@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Lets-Calculate/static/css/main.26118507.chunk.css",
+    "main.js": "/Lets-Calculate/static/js/main.518f88c5.chunk.js",
+    "main.js.map": "/Lets-Calculate/static/js/main.518f88c5.chunk.js.map",
+    "runtime-main.js": "/Lets-Calculate/static/js/runtime-main.f3198e73.js",
+    "runtime-main.js.map": "/Lets-Calculate/static/js/runtime-main.f3198e73.js.map",
+    "static/js/2.b232f18a.chunk.js": "/Lets-Calculate/static/js/2.b232f18a.chunk.js",
+    "static/js/2.b232f18a.chunk.js.map": "/Lets-Calculate/static/js/2.b232f18a.chunk.js.map",
+    "index.html": "/Lets-Calculate/index.html",
+    "static/css/main.26118507.chunk.css.map": "/Lets-Calculate/static/css/main.26118507.chunk.css.map",
+    "static/js/2.b232f18a.chunk.js.LICENSE.txt": "/Lets-Calculate/static/js/2.b232f18a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f3198e73.js",
+    "static/js/2.b232f18a.chunk.js",
+    "static/css/main.26118507.chunk.css",
+    "static/js/main.518f88c5.chunk.js"
+  ]
+}
